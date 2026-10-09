@@ -2,5 +2,5 @@
 
 >status do projeto; Em desenvolvimeno 
 ```
-hello
+node app.js
 ```
